@@ -1,0 +1,17 @@
+{
+  "name": "part7",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^5.1.0",
+    "local": "^0.3.3",
+    "tunnel": "^0.0.6"
+  }
+}
